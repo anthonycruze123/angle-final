@@ -1,0 +1,49 @@
+
+
+@media(max-width:767px){
+    .headtop {
+        background-color: blue;
+        color: #ffffff;
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        /* transform: skew(358deg, 360deg) translateY(0px); */
+    }
+    .custom_list li a{
+        color: #fffefe;
+        padding:0px;
+        margin:5px ;
+    }
+    .custom_headtext {
+        color: #faf5f5;
+        margin: 0px 10px;
+    }
+    .custom_button {
+        margin: 0px 0px;
+    }
+    .link_text{
+        text-align: center;
+    }
+    .link_text2{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .text_list{
+        text-align: center;
+        margin: 15px;
+    }
+    .tilock{
+        padding: 80px 0px;
+    }
+}
+
+@media(min-width:767px){
+}
+@media(min-width:768px){
+}
+@media(min-width:992px){
+
+}
+@media(min-width:1200px){
+
+}
